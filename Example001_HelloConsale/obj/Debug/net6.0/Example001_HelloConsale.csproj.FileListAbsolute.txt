@@ -1,0 +1,15 @@
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\Example001_HelloConsale.exe
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\Example001_HelloConsale.deps.json
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\Example001_HelloConsale.runtimeconfig.json
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\Example001_HelloConsale.dll
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\ref\Example001_HelloConsale.dll
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\bin\Debug\net6.0\Example001_HelloConsale.pdb
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.dll
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\ref\Example001_HelloConsale.dll
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.pdb
+C:\Users\Дарья\Desktop\Обучение GB\Exampls\Example001_HelloConsale\obj\Debug\net6.0\Example001_HelloConsale.genruntimeconfig.cache
